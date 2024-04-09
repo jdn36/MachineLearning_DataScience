@@ -1,0 +1,1 @@
+Repository to store data science, machine learning, and programs developed during my doctoral work as well as other projects done for fun. The name of the repository does not enclose everything contained here. Feel free to explore!
