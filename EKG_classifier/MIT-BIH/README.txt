@@ -1,0 +1,1 @@
+If you want to run the EKG classifier, please unzip Archive.zip first to actually have the data that the script needs and keep the two files it creates in the same folder it is in right now (MIT-BIH).
