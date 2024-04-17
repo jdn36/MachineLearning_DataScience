@@ -1,0 +1,1 @@
+The images used in this project are not contained here because the size and number of images was too large to host in this repository. They were obtained from a public medical images repository.
